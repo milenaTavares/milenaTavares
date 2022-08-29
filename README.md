@@ -1,6 +1,10 @@
 ## Hello, Devs👋! I'm Milena.
 I am a Computer Engineering student at UFES.
 
+### Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
 ### 🛠 Tools and Technologies
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40" height="40">
