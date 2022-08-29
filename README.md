@@ -1,10 +1,11 @@
-### Hello, Devs👋! I'm Milena.
-I am a Computer Engineering student at UFES.
+## Hello, Devs👋! I'm Milena.
+###I am a Computer Engineering student at UFES.
 
-##🛠 Tech Stack
 
 
 <!--
+##🛠 Tech Stack
+###
 
 💻   Java | Spring-boot
 🌐   HTML | CSS | JavaScript
