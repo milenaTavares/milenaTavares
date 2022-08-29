@@ -2,7 +2,8 @@
 I am a Computer Engineering student at UFES.
 
 ### 🛠 Tools and Technologies
-<img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px">
+
+<img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px" />
     
 <!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40" height="40"/>
