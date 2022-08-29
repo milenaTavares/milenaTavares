@@ -1,4 +1,11 @@
 ### Hello, Devs! I'm Milena.
+I am a Computer Engineering student at UFES.
+
+🛠 Tech Stack
+💻   Java | Spring-boot
+🌐   HTML | CSS | JavaScript
+🛢   MySQL | PostgreSQL, DynamoDB, Redis
+🔧   Git | Markdown
 
 <!--
 **milenaTavares/milenaTavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
