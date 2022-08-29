@@ -1,9 +1,7 @@
 ## Hello, Devs👋! I'm Milena.
 I am a Computer Engineering student at UFES.
 
-###🛠 Tech Stack
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" /> | 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+
           
           
 
@@ -12,6 +10,10 @@ I am a Computer Engineering student at UFES.
 <!--
 ##🛠 Tech Stack
 ###
+
+###🛠 Tech Stack
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" /> | 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
 
 💻   Java | Spring-boot
 🌐   HTML | CSS | JavaScript
