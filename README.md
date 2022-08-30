@@ -4,8 +4,10 @@ I am a Computer Engineering student at UFES.
 ### 🛠 Tools and Technologies
 
 <div style="display: flex; flex-direction: row">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" width="40" height="40"/>
+<p>|<p/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
 <div/>
 
     
