@@ -1,5 +1,5 @@
 ## Hello, Devs👋! I'm Milena.
-I am a Computer Engineering student at UFES.
+I'm a backend developer specializing in Java and Spring Boot. Currently, I'm dedicating my time to studying software architecture and expanding my skills in frontend development, focusing on React and Next.js. I'm passionate about programming and creating solutions that make people's lives easier and have a positive impact.
 
 ### 🛠 Tools and Technologies
 
